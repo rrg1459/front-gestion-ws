@@ -9,7 +9,7 @@ function App() {
       <img src={logoWS} className="logo" alt="Logo Gestión Wall Street" />
       <h1>Gestión Wall Street</h1>
       <img src={under} className="under" alt="under construction" />
-      <p>Versión <code>0.0.0.1</code></p>
+      <p>Versión <strong>0.0.0.3</strong></p>
     </>
   )
 }
