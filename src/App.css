@@ -1,0 +1,20 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 250px;
+  padding: 16px;
+}
+.under {
+  height: 200px;
+  padding: 16px;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.under:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
